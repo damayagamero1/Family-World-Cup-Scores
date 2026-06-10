@@ -29,61 +29,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 6,
+                    "id": 764,
                     "name": "Brasil"
                 },
                 {
-                    "id": 30,
+                     "id": 765,
                     "name": "Portugal"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 34,
+                    "id": 818,
                     "name": "Colombia"
                 },
                 {
-                    "id": 0,
+                    "id": 799,
                     "name": "Croacia"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id": 8872,
                     "name": "Noruega"
                 },
                 {
-                    "id": 28,
+                    "id": 771,
                     "name": "Estados Unidos"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 0,
+                    "id": 1935,
                     "name": "Costa de Marfil"
                 },
                 {
-                    "id": 27,
+                     "id": 769,
                     "name": "México"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id": 801,
                     "name": "Arabia Saudita"
                 },
                 {
-                    "id": 0,
+                    "id": 1934,
                     "name": "República Democrática del Congo"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id":  783,
                     "name": "Nueva Zelanda"
                 },
                 {
-                    "id": 0,
+                    "id":  836,
                     "name": "Haití"
                 }
             ]
@@ -94,61 +94,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 29,
+                     "id": 773,
                     "name": "Francia"
                 },
                 {
-                    "id": 6,
+                    "id": 764,
                     "name": "Brasil"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 32,
+                     "id": 758,
                     "name": "Uruguay"
                 },
                 {
-                    "id": 34,
+                    "id": 818,
                     "name": "Colombia"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id":  766,
                     "name": "Japón"
                 },
                 {
-                    "id": 0,
+                    "id":  804,
                     "name": "Senegal"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 27,
+                     "id": 769,
                     "name": "México"
                 },
                 {
-                    "id": 0,
+                    "id":  828,
                     "name": "Canadá"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id":  798,
                     "name": "Chequia"
                 },
                 {
-                    "id": 0,
+                    "id":  801,
                     "name": "Arabia Saudita"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id":  8062,
                     "name": "Irak"
                 },
                 {
-                    "id": 0,
+                    "id":  774,
                     "name": "Sudáfrica"
                 }
             ]
@@ -159,61 +159,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 31,
+                     "id": 760,
                     "name": "España"
                 },
                 {
-                    "id": 30,
+                     "id": 765,
                     "name": "Portugal"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 33,
+                     "id": 8601,
                     "name": "Países Bajos"
                 },
                 {
-                    "id": 34,
+                    "id": 818,
                     "name": "Colombia"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id":  766,
                     "name": "Japón"
                 },
                 {
-                    "id": 0,
+                    "id":  791,
                     "name": "Ecuador"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 27,
+                     "id": 769,
                     "name": "México"
                 },
                 {
-                    "id": 0,
+                    "id":  828,
                     "name": "Canadá"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id":  802,
                     "name": "Túnez"
                 },
                 {
-                    "id": 0,
+                    "id":  801,
                     "name": "Arabia Saudita"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id":  1836,
                     "name": "Panamá"
                 },
                 {
-                    "id": 0,
+                    "id":  783,
                     "name": "Nueva Zelanda"
                 }
             ]
@@ -224,61 +224,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 31,
+                     "id": 760,
                     "name": "España"
                 },
                 {
-                    "id": 26,
+                     "id": 762,
                     "name": "Argentina"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 0,
+                    "id":  815,
                     "name": "Marruecos"
                 },
                 {
-                    "id": 34,
+                    "id": 818,
                     "name": "Colombia"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id":  766,
                     "name": "Japón"
                 },
                 {
-                    "id": 0,
+                   "id":  791,
                     "name": "Ecuador"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 27,
+                     "id": 769,
                     "name": "México"
                 },
                 {
-                    "id": 0,
+                    "id": 828,
                     "name": "Canadá"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id": 801,
                     "name": "Arabia Saudita"
                 },
                 {
-                    "id": 0,
+                    "id": 8030,
                     "name": "Catar"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id": 1836,
                     "name": "Panamá"
                 },
                 {
-                    "id": 0,
+                    "id": 836,
                     "name": "Haití"
                 }
             ]
@@ -289,61 +289,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 31,
+                     "id": 760,
                     "name": "España"
                 },
                 {
-                    "id": 29,
+                     "id": 773,
                     "name": "Francia"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 0,
+                    "id": 805,
                     "name": "Bélgica"
                 },
                 {
-                    "id": 0,
+                    "id": 815,
                     "name": "Marruecos"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id": 8872,
                     "name": "Noruega"
                 },
                 {
-                    "id": 0,
+                    "id": 803,
                     "name": "Turquía"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 0,
+                    "id": 825,
                     "name": "Egipto"
                 },
                 {
-                    "id": 0,
+                    "id": 1935,
                     "name": "Costa de Marfil"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id": 763,
                     "name": "Ghana"
                 },
                 {
-                    "id": 0,
+                    "id": 1060,
                     "name": "Bosnia y Herzegovina"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id": 8062,
                     "name": "Irak"
                 },
                 {
-                    "id": 0,
+                    "id": 774,
                     "name": "Sudáfrica"
                 }
             ]
@@ -354,61 +354,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 31,
+                     "id": 760,
                     "name": "España"
                 },
                 {
-                    "id": 26,
+                     "id": 762,
                     "name": "Argentina"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 0,
+                    "id": 815,
                     "name": "Marruecos"
                 },
                 {
-                    "id": 34,
+                    "id": 818,
                     "name": "Colombia"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id": 766,
                     "name": "Japón"
                 },
                 {
-                    "id": 0,
+                    "id": 8872,
                     "name": "Noruega"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 27,
+                     "id": 769,
                     "name": "México"
                 },
                 {
-                    "id": 0,
+                    "id": 828,
                     "name": "Canadá"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id": 798,
                     "name": "Chequia"
                 },
                 {
-                    "id": 0,
+                    "id": 8873,
                     "name": "Escocia"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id": 1836,
                     "name": "Panamá"
                 },
                 {
-                    "id": 0,
+                    "id": 783,
                     "name": "Nueva Zelanda"
                 }
             ]
@@ -419,61 +419,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 31,
+                     "id": 760,
                     "name": "España"
                 },
                 {
-                    "id": 6,
+                    "id": 764,
                     "name": "Brasil"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 33,
+                     "id": 8601,
                     "name": "Países Bajos"
                 },
                 {
-                    "id": 34,
+                    "id": 818,
                     "name": "Colombia"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id": 766,
                     "name": "Japón"
                 },
                 {
-                    "id": 0,
+                  "id":  791,
                     "name": "Ecuador"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 0,
+                    "id": 761,
                     "name": "Paraguay"
                 },
                 {
-                    "id": 27,
+                     "id": 769,
                     "name": "México"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id": 1060,
                     "name": "Bosnia y Herzegovina"
                 },
                 {
-                    "id": 0,
+                    "id": 8873,
                     "name": "Escocia"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id": 783,
                     "name": "Nueva Zelanda"
                 },
                 {
-                    "id": 0,
+                    "id": 836,
                     "name": "Haití"
                 }
             ]
@@ -484,61 +484,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 31,
+                     "id": 760,
                     "name": "España"
                 },
                 {
-                    "id": 26,
+                     "id": 762,
                     "name": "Argentina"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 33,
+                     "id": 8601,
                     "name": "Países Bajos"
                 },
                 {
-                    "id": 0,
+                    "id": 815,
                     "name": "Marruecos"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id": 766,
                     "name": "Japón"
                 },
                 {
-                    "id": 0,
+                    "id": 8872,
                     "name": "Noruega"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 0,
+                    "id": 761,
                     "name": "Paraguay"
                 },
                 {
-                    "id": 0,
+                    "id": 828,
                     "name": "Canadá"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id": 840,
                     "name": "Irán"
                 },
                 {
-                    "id": 0,
+                    "id": 1060,
                     "name": "Bosnia y Herzegovina"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id": 1836,
                     "name": "Panamá"
                 },
                 {
-                    "id": 0,
+                    "id": 1930,
                     "name": "Cabo Verde"
                 }
             ]
@@ -549,61 +549,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 31,
+                     "id": 760,
                     "name": "España"
                 },
                 {
-                    "id": 6,
+                    "id": 764,
                     "name": "Brasil"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 33,
+                     "id": 8601,
                     "name": "Países Bajos"
                 },
                 {
-                    "id": 34,
+                    "id": 818,
                     "name": "Colombia"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id": 766,
                     "name": "Japón"
                 },
                 {
-                    "id": 0,
+                 "id":  791,
                     "name": "Ecuador"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 27,
+                     "id": 769,
                     "name": "México"
                 },
                 {
-                    "id": 0,
+                    "id": 828,
                     "name": "Canadá"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id": 763,
                     "name": "Ghana"
                 },
                 {
-                    "id": 0,
+                    "id": 1934,
                     "name": "República Democrática del Congo"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id": 774,
                     "name": "Sudáfrica"
                 },
                 {
-                    "id": 0,
+                    "id": 1930,
                     "name": "Cabo Verde"
                 }
             ]
@@ -614,61 +614,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 31,
+                     "id": 760,
                     "name": "España"
                 },
                 {
-                    "id": 29,
+                     "id": 773,
                     "name": "Francia"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 33,
+                     "id": 8601,
                     "name": "Países Bajos"
                 },
                 {
-                    "id": 34,
+                    "id": 818,
                     "name": "Colombia"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id": 8872,
                     "name": "Noruega"
                 },
                 {
-                    "id": 28,
+                    "id": 771,
                     "name": "Estados Unidos"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 27,
+                     "id": 769,
                     "name": "México"
                 },
                 {
-                    "id": 0,
+                    "id": 779,
                     "name": "Australia"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id": 801,
                     "name": "Arabia Saudita"
                 },
                 {
-                    "id": 0,
+                    "id": 8873,
                     "name": "Escocia"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id": 8062,
                     "name": "Irak"
                 },
                 {
-                    "id": 0,
+                    "id": 9460,
                     "name": "Curazao"
                 }
             ]
@@ -679,61 +679,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 26,
+                     "id": 762,
                     "name": "Argentina"
                 },
                 {
-                    "id": 6,
+                    "id": 764,
                     "name": "Brasil"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 0,
+                    "id": 815,
                     "name": "Marruecos"
                 },
                 {
-                    "id": 34,
+                    "id": 818,
                     "name": "Colombia"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id": 8872,
                     "name": "Noruega"
                 },
                 {
-                    "id": 28,
+                    "id": 771,
                     "name": "Estados Unidos"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 27,
+                     "id": 769,
                     "name": "México"
                 },
                 {
-                    "id": 0,
+                    "id": 779,
                     "name": "Australia"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id": 801,
                     "name": "Arabia Saudita"
                 },
                 {
-                    "id": 0,
+                    "id": 1934,
                     "name": "República Democrática del Congo"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id": 8070,
                     "name": "Uzbekistán"
                 },
                 {
-                    "id": 0,
+                    "id": 1836,
                     "name": "Panamá"
                 }
             ]
@@ -744,61 +744,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 31,
+                     "id": 760,
                     "name": "España"
                 },
                 {
-                    "id": 6,
+                    "id": 764,
                     "name": "Brasil"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 0,
+                    "id": 815,
                     "name": "Marruecos"
                 },
                 {
-                    "id": 34,
+                    "id": 818,
                     "name": "Colombia"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id": 766,
                     "name": "Japón"
                 },
                 {
-                    "id": 28,
+                    "id": 771,
                     "name": "Estados Unidos"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 27,
+                     "id": 769,
                     "name": "México"
                 },
                 {
-                    "id": 0,
+                    "id": 828,
                     "name": "Canadá"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id": 801,
                     "name": "Arabia Saudita"
                 },
                 {
-                    "id": 0,
+                    "id": 8873,
                     "name": "Escocia"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id": 1836,
                     "name": "Panamá"
                 },
                 {
-                    "id": 0,
+                    "id": 9460,
                     "name": "Curazao"
                 }
             ]
@@ -813,57 +813,57 @@ DEFAULT_PARTICIPANTS = [
                     "name": "Inglaterra"
                 },
                 {
-                    "id": 6,
+                    "id": 764,
                     "name": "Brasil"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 0,
+                    "id": 815,
                     "name": "Marruecos"
                 },
                 {
-                    "id": 34,
+                    "id": 818,
                     "name": "Colombia"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id": 766,
                     "name": "Japón"
                 },
                 {
-                    "id": 28,
+                    "id": 771,
                     "name": "Estados Unidos"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 27,
+                     "id": 769,
                     "name": "México"
                 },
                 {
-                    "id": 0,
+                    "id": 772,
                     "name": "Corea del Sur"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id": 798,
                     "name": "Chequia"
                 },
                 {
-                    "id": 0,
+                    "id": 8873,
                     "name": "Escocia"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id": 783,
                     "name": "Nueva Zelanda"
                 },
                 {
-                    "id": 0,
+                    "id": 9460,
                     "name": "Curazao"
                 }
             ]
@@ -874,61 +874,61 @@ DEFAULT_PARTICIPANTS = [
         "categories": {
             "Category 1": [
                 {
-                    "id": 31,
+                     "id": 760,
                     "name": "España"
                 },
                 {
-                    "id": 26,
+                     "id": 762,
                     "name": "Argentina"
                 }
             ],
             "Category 2": [
                 {
-                    "id": 0,
+                    "id": 815,
                     "name": "Marruecos"
                 },
                 {
-                    "id": 34,
+                    "id": 818,
                     "name": "Colombia"
                 }
             ],
             "Category 3": [
                 {
-                    "id": 0,
+                    "id": 766,
                     "name": "Japón"
                 },
                 {
-                    "id": 28,
+                    "id": 771,
                     "name": "Estados Unidos"
                 }
             ],
             "Category 4": [
                 {
-                    "id": 27,
+                     "id": 769,
                     "name": "México"
                 },
                 {
-                    "id": 0,
+                    "id": 828,
                     "name": "Canadá"
                 }
             ],
             "Category 5": [
                 {
-                    "id": 0,
+                    "id": 801,
                     "name": "Arabia Saudita"
                 },
                 {
-                    "id": 0,
+                    "id": 8873,
                     "name": "Escocia"
                 }
             ],
             "Category 6": [
                 {
-                    "id": 0,
+                    "id": 1836,
                     "name": "Panamá"
                 },
                 {
-                    "id": 0,
+                    "id": 774,
                     "name": "Sudáfrica"
                 }
             ]
