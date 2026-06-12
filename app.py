@@ -933,7 +933,269 @@ DEFAULT_PARTICIPANTS = [
                 }
             ]
         }
+    },
+    {
+        "name": "Jorge Junior",
+        "categories": {
+            "Category 1": [
+                {
+                    "id": 760,
+                    "name": "España"
+                },
+                {
+                     "id": 762,
+                    "name": "Argentina"
+                }
+            ],
+            "Category 2": [
+                {
+                    "id": 805,
+                    "name": "Belgica"
+                },
+                {
+                    "id": 815,
+                    "name": "Marruecos"
+                }
+            ],
+            "Category 3": [
+                {
+                    "id": 8872,
+                    "name": "Noruega"
+                },
+                {
+                    "id": 771,
+                    "name": "Estados Unidos"
+                }
+            ],
+            "Category 4": [
+                {
+                    "id": 1935,
+                    "name": "Costa de Marfil"
+                },
+                {
+                     "id": 825,
+                    "name": "Egipto"
+                }
+            ],
+            "Category 5": [
+                {
+                    "id": 801,
+                    "name": "Arabia Saudita"
+                },
+                {
+                    "id": 763,
+                    "name": "Ghana"
+                }
+            ],
+            "Category 6": [
+                {
+                    "id":  1836,
+                    "name": "Panama"
+                },
+                {
+                    "id":  8049,
+                    "name": "Jordania"
+                }
+            ]
+        }
+    },
+    {
+        "name": "AIDA CAÑAS",
+        "categories": {
+            "Category 1": [
+                {
+                    "id": 760,
+                    "name": "España"
+                },
+                {
+                     "id": 773,
+                    "name": "Francia"
+                }
+            ],
+            "Category 2": [
+                {
+                    "id": 758,
+                    "name": "Uruguay"
+                },
+                {
+                    "id": 818,
+                    "name": "Colombia"
+                }
+            ],
+            "Category 3": [
+                {
+                    "id": 792,
+                    "name": "Suecia"
+                },
+                {
+                    "id": 771,
+                    "name": "Estados Unidos"
+                }
+            ],
+            "Category 4": [
+                {
+                    "id": 769,
+                    "name": "México"
+                },
+                {
+                     "id": 828,
+                    "name": "Canadá"
+                }
+            ],
+            "Category 5": [
+                {
+                    "id": 801,
+                    "name": "Arabia Saudita"
+                },
+                {
+                    "id": 8030,
+                    "name": "Qatar"
+                }
+            ],
+            "Category 6": [
+                {
+                    "id":  783,
+                    "name": "Nueva Zelanda"
+                },
+                {
+                    "id":  836,
+                    "name": "Haití"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Don Pepe",
+        "categories": {
+            "Category 1": [
+                {
+                    "id": 760,
+                    "name": "España"
+                },
+                {
+                     "id": 764,
+                    "name": "Brasil"
+                }
+            ],
+            "Category 2": [
+                {
+                    "id": 8601,
+                    "name": "Países Bajos"
+                },
+                {
+                    "id": 805,
+                    "name": "Bélgica"
+                }
+            ],
+            "Category 3": [
+                {
+                    "id": 766,
+                    "name": "Japon"
+                },
+                {
+                    "id": 8872,
+                    "name": "Noruega"
+                }
+            ],
+            "Category 4": [
+                {
+                    "id": 1935,
+                    "name": "Costa de Marfil"
+                },
+                {
+                     "id": 772,
+                    "name": "Korea del Sur"
+                }
+            ],
+            "Category 5": [
+                {
+                    "id": 802,
+                    "name": "Tunez"
+                },
+                {
+                    "id": 763,
+                    "name": "Ghana"
+                }
+            ],
+            "Category 6": [
+                {
+                    "id":  1930,
+                    "name": "Cabo Verde"
+                },
+                {
+                    "id":  774,
+                    "name": "Sudáfrica"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Niña Ada",
+        "categories": {
+            "Category 1": [
+                {
+                    "id": 760,
+                    "name": "España"
+                },
+                {
+                     "id": 764,
+                    "name": "Brasil"
+                }
+            ],
+            "Category 2": [
+                {
+                    "id": 8601,
+                    "name": "Países Bajos"
+                },
+                {
+                    "id": 805,
+                    "name": "Bélgica"
+                }
+            ],
+            "Category 3": [
+                {
+                    "id": 803,
+                    "name": "Turquia"
+                },
+                {
+                    "id": 8872,
+                    "name": "Noruega"
+                }
+            ],
+            "Category 4": [
+                {
+                    "id": 1935,
+                    "name": "Costa de Marfil"
+                },
+                {
+                     "id": 825,
+                    "name": "Egipto"
+                }
+            ],
+            "Category 5": [
+                {
+                    "id": 802,
+                    "name": "Tunez"
+                },
+                {
+                    "id": 763,
+                    "name": "Ghana"
+                }
+            ],
+            "Category 6": [
+                {
+                    "id":  836,
+                    "name": "Haiti"
+                },
+                {
+                    "id":  774,
+                    "name": "Sudáfrica"
+                }
+            ]
+        }
     }
+
+
 ]
 
 
